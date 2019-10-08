@@ -1,7 +1,9 @@
 # Udacity_project1
-# This project aims to build own world
+ This project aims to build own world
 
-# Directory Structure
+ 1. Directory Structure
+
+``` bash
 $    Project1                          # Build My World Project 
 $    ├── model                          # Model files 
 $    │   ├── Building
@@ -16,8 +18,12 @@ $    ├── world                          # Gazebo main World containing mod
 $    │   ├── UdacityOffice.world
 $    ├── CMakeLists.txt                 # Link libraries 
 $    └──             
+'''
 
-Gazebo in workspace
+2. Gazebo in workspace
 - Before launching Gazebo
+
+``` bash
 $ sudo apt-get update && sudo apt-get upgrade -y 
 $ gazebo
+'''
