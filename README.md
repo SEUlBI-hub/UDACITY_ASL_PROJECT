@@ -2,7 +2,7 @@
  This project aims to build own world
 
 
- ## 1. Directory Structure
+## Directory Structure
 
 ``` bash
 $    Project1                          # Build My World Project 
@@ -19,12 +19,12 @@ $    ├── world                          # Gazebo main World containing mod
 $    │   ├── UdacityOffice.world
 $    ├── CMakeLists.txt                 # Link libraries 
 $    └──             
-'''
+```
 
-## 2. Gazebo in workspace
-- Before launching Gazebo
+## Gazebo in workspace
+ Before launching Gazebo
 
 ``` bash
 $ sudo apt-get update && sudo apt-get upgrade -y 
 $ gazebo
-'''
+```
