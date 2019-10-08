@@ -2,7 +2,7 @@
 # This project aims to build own world
 
 # Directory Structure
-$     .Project1                          # Build My World Project 
+$    Project1                          # Build My World Project 
 $    ├── model                          # Model files 
 $    │   ├── Building
 $    │   │   ├── model.config
