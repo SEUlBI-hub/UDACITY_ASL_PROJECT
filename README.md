@@ -1,9 +1,8 @@
 # Udacity_project1
  This project aims to build own world
 
-'''
 
- 1. Directory Structure
+ ## 1. Directory Structure
 
 ``` bash
 $    Project1                          # Build My World Project 
@@ -22,7 +21,7 @@ $    ├── CMakeLists.txt                 # Link libraries
 $    └──             
 '''
 
-2. Gazebo in workspace
+## 2. Gazebo in workspace
 - Before launching Gazebo
 
 ``` bash
